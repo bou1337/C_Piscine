@@ -41,9 +41,9 @@ The repository covers the following modules:
 - Sorting and searching algorithms
 - More complex problem-solving techniques
 
-### C08 - Linked Lists
-- Creating and managing linked lists
-- Implementing basic list operations (add, remove, search, traverse)
+### C08 - Header_file
+- Using header file 
+- Using strucutes 
 
 ## Usage
 To compile and run any of the exercises, navigate to the corresponding directory and use `gcc`:
