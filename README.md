@@ -7,7 +7,7 @@ The repository covers the following modules:
 
 ### C00 - Introduction to C
 - Basics of C syntax
-- `printf`, `scanf`, and basic operations
+- `printf`, and basic operations
 - Writing and compiling simple C programs
 
 ### C01 - Pointers and Memory
